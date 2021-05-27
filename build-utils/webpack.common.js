@@ -31,7 +31,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: 'NewHorizons Smart Portal',
+      title: 'React Boilerplate',
       template: './src/index.html',
     }),
   ],
